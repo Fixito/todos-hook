@@ -1,4 +1,4 @@
-import React, { createContext, useReducer } from "react";
+import React, { createContext } from "react";
 // all methods to interact with todos
 import todoReducer from "../reducers/todo.reducer";
 import { useLocalStorageStateReducer } from "../hooks/useLocalStorageReducer";
