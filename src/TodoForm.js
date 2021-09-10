@@ -21,7 +21,7 @@ function TodoForm() {
           value={value}
           onChange={handleChange}
           margin="normal"
-          label="Add New Todo"
+          label="Ajouter une nouvelle tâche"
           fullWidth
         />
       </form>
